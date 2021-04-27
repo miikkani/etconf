@@ -1,2 +1,3 @@
-# etconf
-Enemy Territory cfg files
+# Where to?
+
+C:\Users\USERNAME\Documents\ETLegacy
